@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: reddashboard\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-05-05 12:26+0000\n"
-"PO-Revision-Date: 2021-05-26 12:35\n"
+"PO-Revision-Date: 2021-06-02 13:12\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -25,7 +25,7 @@ msgstr "Tableau de Bord {name}"
 
 #: reddash/app/utils.py:161
 msgid "Interactive dashboard to control and interact with {name}"
-msgstr ""
+msgstr "Un panneau de contrôle pour contrôler et interagir avec {name}"
 
 #: reddash/app/api/routes.py:22 reddash/app/api/routes.py:26
 #: reddash/app/api/routes.py:47
@@ -496,7 +496,7 @@ msgstr ""
 
 #: reddash/app/dashboard/templates/guild.html:384
 msgid "Remove rule"
-msgstr ""
+msgstr "Supprimer la règle"
 
 #: reddash/app/dashboard/templates/guild.html:397
 msgid "Permission rules"
@@ -554,15 +554,15 @@ msgstr "Chargement..."
 #: reddash/app/dashboard/templates/guild.html:512
 #: reddash/app/dashboard/templates/guild.html:569
 msgid "Add Rule"
-msgstr ""
+msgstr "Ajouter une règle"
 
 #: reddash/app/dashboard/templates/guild.html:552
 msgid "Step #2: Select target"
-msgstr ""
+msgstr "Étape 2 : Sélectionnez la cible"
 
 #: reddash/app/dashboard/templates/guild.html:561
 msgid "Step #3: Select cog/command"
-msgstr ""
+msgstr "Étape 3 : Sélectionnez un cog/ une commande"
 
 #: reddash/app/dashboard/templates/guild.html:588
 #: reddash/app/dashboard/templates/guild.html:624
